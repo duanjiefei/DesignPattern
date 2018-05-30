@@ -2,6 +2,8 @@ package singleton;
 
 /**
  * Created by Sky000 on 2018/5/29.
+ *
+ * 参考链接 https://blog.csdn.net/liguangzhenghi/article/details/8076361
  */
 
 public class Singleton {
